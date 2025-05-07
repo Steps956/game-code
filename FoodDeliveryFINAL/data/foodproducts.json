@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Spaghetti",
+        "price": 12.99,
+        "category": "Main Course",
+        "description": "Delicious spaghetti with marinara sauce."
+    },
+    {
+        "id": "2",
+        "name": "Caesar Salad",
+        "price": 8.99,
+        "category": "Appetizer",
+        "description": "Fresh romaine lettuce with Caesar dressing."
+    },
+    {
+        "id": "681722ae0da7f",
+        "name": "Fried Chicken",
+        "price": "15.99",
+        "category": "Main Course",
+        "description": "Golden Brown Tender Juicy chicken."
+    },
+    {
+        "id": "681aa11fb76c1",
+        "name": "Sisig",
+        "price": "49.99",
+        "category": "Main Course",
+        "description": "Pig Ear"
+    },
+    {
+        "id": "681aa3c9e92f5",
+        "name": "Rice",
+        "price": "1.99",
+        "category": "Basta muna ah",
+        "description": "Mainit pa nga kanon"
+    }
+]

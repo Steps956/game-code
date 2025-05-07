@@ -1,0 +1,84 @@
+[
+    {
+        "userId": "6810330fe20dd",
+        "username": "sad",
+        "role": "customer"
+    },
+    {
+        "userId": "68151d1082313",
+        "username": "Customer",
+        "role": "customer"
+    },
+    {
+        "userId": "68151d2a3cc7e",
+        "username": "Empl",
+        "role": "employee"
+    },
+    {
+        "userId": "68151d6b2b1c6",
+        "username": "admin",
+        "role": "admin"
+    },
+    {
+        "userId": "6815a83d77795",
+        "username": "employee",
+        "role": "employee"
+    },
+    {
+        "userId": "6815a9b803942",
+        "username": "sa",
+        "role": "customer"
+    },
+    {
+        "userId": "6818d22d75c79",
+        "username": "Kim",
+        "role": "delivery_person"
+    },
+    {
+        "userId": "681a17142bf38",
+        "username": "dqdq",
+        "role": "employee"
+    },
+    {
+        "userId": "681a190651423",
+        "username": "ff13",
+        "role": "customer"
+    },
+    {
+        "userId": "681a1bd8ac582",
+        "username": "stude1",
+        "role": "customer"
+    },
+    {
+        "userId": "681a23036bc64",
+        "username": "xboxplaz",
+        "role": "customer"
+    },
+    {
+        "userId": "681a25627b0c1",
+        "username": "stepcastillon@gmail.com",
+        "role": "delivery_person",
+        "vehicleType": "Unknown"
+    },
+    {
+        "userId": "681a99bd42c13",
+        "username": "8995",
+        "role": "delivery_person",
+        "vehicleType": "Unknown"
+    },
+    {
+        "userId": "681a99d7904bc",
+        "username": "112",
+        "role": "admin"
+    },
+    {
+        "userId": "681a9a7596d8e",
+        "username": "cutomer",
+        "role": "customer"
+    },
+    {
+        "userId": "681a9e30321b6",
+        "username": "customer",
+        "role": "customer"
+    }
+]

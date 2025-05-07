@@ -1,0 +1,26 @@
+[
+    {
+        "id": "6815c6030ec02",
+        "name": "Happy Meal",
+        "price": "10.99",
+        "stock": 30
+    },
+    {
+        "id": "6815c60ee9e4b",
+        "name": "Sad Meal",
+        "price": "10.99",
+        "stock": 29
+    },
+    {
+        "id": "6815c61bdc67b",
+        "name": "Angry Meal",
+        "price": "10.99",
+        "stock": 39
+    },
+    {
+        "id": "681aa0f882d35",
+        "name": "Disgust Meal",
+        "price": "10.99",
+        "stock": "50"
+    }
+]
