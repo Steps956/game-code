@@ -1,0 +1,37 @@
+[
+    {
+        "userId": "68151d1082313",
+        "username": "Customer",
+        "role": "customer"
+    },
+    {
+        "userId": "68151d6b2b1c6",
+        "username": "admin",
+        "role": "admin"
+    },
+    {
+        "userId": "6815a83d77795",
+        "username": "employee",
+        "role": "employee"
+    },
+    {
+        "userId": "6815a9b803942",
+        "username": "sa",
+        "role": "customer"
+    },
+    {
+        "userId": "6818d22d75c79",
+        "username": "Kim",
+        "role": "delivery_person"
+    },
+    {
+        "userId": "681a9e30321b6",
+        "username": "customer",
+        "role": "customer"
+    },
+    {
+        "userId": "681aa955bea1d",
+        "username": "stude1",
+        "role": "customer"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "orderId": "6819b1298851d",
+        "username": "sa",
+        "items": [
+            {
+                "product": {
+                    "id": "6815c6030ec02",
+                    "name": "Happy Meal",
+                    "price": "10.99",
+                    "stock": 32,
+                    "type": "inventory"
+                },
+                "quantity": "2"
+            }
+        ],
+        "deliveryStatus": "Delivered",
+        "paymentStatus": "Paid",
+        "paymentMethod": "cash_on_delivery",
+        "address": "jaro",
+        "phoneNumber": "09123456789",
+        "deliveryDriver": "Kim"
+    },
+    {
+        "orderId": "681a1b33f19b7",
+        "username": "ff13",
+        "items": [
+            {
+                "product": {
+                    "id": "6815c60ee9e4b",
+                    "name": "Sad Meal",
+                    "price": "10.99",
+                    "stock": 38,
+                    "type": "inventory"
+                },
+                "quantity": 8
+            }
+        ],
+        "deliveryStatus": "Delivered",
+        "paymentStatus": "Paid",
+        "paymentMethod": "cash_on_delivery",
+        "address": null,
+        "phoneNumber": null,
+        "deliveryDriver": "Kim"
+    },
+    {
+        "orderId": "681aa00e2a766",
+        "username": "sa",
+        "items": [
+            {
+                "product": {
+                    "id": "2",
+                    "name": "Caesar Salad",
+                    "price": 8.99,
+                    "category": "Appetizer",
+                    "description": "Fresh romaine lettuce with Caesar dressing."
+                },
+                "quantity": "1"
+            },
+            {
+                "product": {
+                    "id": "6815c60ee9e4b",
+                    "name": "Sad Meal",
+                    "price": "10.99",
+                    "stock": 30,
+                    "type": "inventory"
+                },
+                "quantity": "1"
+            }
+        ],
+        "deliveryStatus": "Pending",
+        "paymentStatus": "Paid",
+        "paymentMethod": "online_payment",
+        "address": null,
+        "phoneNumber": null,
+        "deliveryDriver": null
+    }
+]
